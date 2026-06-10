@@ -1,3 +1,6 @@
+package com.bikeshop.integration;
+
+
 @SpringBootTest
 class CheckoutIntegrationTest {
     @Autowired
