@@ -1,3 +1,5 @@
+package com.bikeshop.payment;
+
 @Test
 void shouldAuthorizePayment() {
     PaymentService payment = new PaymentService();

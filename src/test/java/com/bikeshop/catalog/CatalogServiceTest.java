@@ -1,3 +1,5 @@
+package com.bikeshop.catalog;
+
 @Test
 void shouldFindBikeById() {
     CatalogService catalog = new CatalogService();
